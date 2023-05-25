@@ -1,0 +1,66 @@
+   header {
+      background-color: brown;
+      text-align: center;
+      color: chartreuse;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      padding: 22px 75px;
+      margin-top: 3px;
+      align-items: center;
+
+   }
+
+   article {
+      color: blue;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      background: yellow;
+      padding: 30px 10px;
+      margin-top: 20px;
+      width: 70;
+
+   }
+
+   main {
+      background: black;
+      color: cornsilk;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 20px;
+      text-align: center;
+      width: 867px;
+      padding: 8px 5px;
+      margin-top: 10px;
+
+   }
+
+   section {
+      justify-content: center;
+      display: flex;
+
+   }
+
+
+   nav {
+      padding: 163px 100px;
+      margin-top: 10px;
+      color: coral;
+      background: black;
+      width: 200px;
+      float: left;
+      justify-content: space-around;
+      font-size: 20px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      align-items: center;
+      text-align: center;
+   }
+
+   footer {
+      background-color: brown;
+      text-align: center;
+      color: chartreuse;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      padding: 22px 75px;
+      margin-top: 3px;
+      align-items: center;
+   }
